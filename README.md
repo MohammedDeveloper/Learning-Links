@@ -1,6 +1,59 @@
 # Learning-Links
 Learning links across frameworks
 
+## C#
+https://www.linkedin.com/learning/c-sharp-6-0-first-look?storeRef=voyager_feed_cymbii_learning
+
+## .Net: Queue Background Item
+http://walkingthestack.blogspot.com/2015/05/small-tip-use-queuebackgroundworkitem.html
+
+## Soap UI:
+http://www.soapui.org/
+
+## Pagination using KO:
+http://codepen.io/allicarn/pen/flmjx
+
+## Change the host address:
+notepad c:\windows\system32\drivers\etc\hosts
+
+## Online VISIO:
+https://www.draw.io/
+
+## Email Retrieval:
+https://www.emailarchitect.net/eagetmail/kb/csharp.aspx?cat=0
+
+## For Index/Datatype:
+https://msdn.microsoft.com/en-us/data/jj591617.aspx#PropertyIndex
+http://stackoverflow.com/questions/10095980/ef-code-first-model-properties-types-to-db-data-types
+
+## Maximize Data Usage:
+http://smallbusiness.chron.com/maximize-cpu-usage-57284.html
+
+## Bootstrap Vertical Tabs DEMO:
+http://dbtek.github.io/bootstrap-vertical-tabs/demo.html
+
+## Web API - For IoC Containers: 
+http://channel9.msdn.com/Shows/Web+Camps+TV/Dan-Roth-Takes-Us-on-a-Deep-Dive-into-Web-API
+
+## Web API - For CORS Support: 
+http://channel9.msdn.com/Shows/Web+Camps+TV/ASPNET-Web-API-and-CORS-Support
+
+## Windsor:
+http://docs.castleproject.org/Default.aspx?Page=Registering-components-one-by-one&NS=Windsor&AspxAutoDetectCookieSupport=1
+http://docs.castleproject.org/(X(1)S(gkpgq145mzgulkniz3qypy35))/Default.aspx?Page=Windsor-Tutorial-Part-Nine-Diagnosing-missing-dependency-issues&NS=Windsor&AspxAutoDetectCookieSupport=1
+
+## Web API - Post Call:
+http://www.asp.net/web-api/overview/advanced/calling-a-web-api-from-a-net-client
+
+## Email - Using MVC Views:
+https://github.com/smsohan/MvcMailer/wiki/MvcMailer-Step-by-Step-Guide
+
+## Drop All Tables:
+http://www.danderson.me/posts/how-to-delete-or-drop-all-tables-from-a-sql-server-database-using-just-a-sql-query/
+
+## For Edit/Delete:
+http://bryanbraun.github.io/anchorjs/#arrow
+
 ## Usage of CDNs instead of libraries
 A CDN is essentially a network of geographically dispersed servers. Each CDN node (also called Edge Servers) caches the static content of a site like the images, CSS/JS files and other structural components. The majority of an end-user’s page load time is spent on retrieving this content, and so it makes sense to provide these “building blocks” of a site in as many server nodes as possible, distributed throughout the world.
 
