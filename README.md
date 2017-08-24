@@ -1,6 +1,15 @@
 # Learning-Links
 Learning links across frameworks
 
+## CAN I USE?
+http://caniuse.com/
+
+## Subresource Integrity (SRI) | SHA - Secure Hash Algorithm
+https://www.srihash.org/
+
+## TLS - Transport Level Security
+https://en.wikipedia.org/wiki/Transport_Layer_Security
+
 ## C#
 https://www.linkedin.com/learning/c-sharp-6-0-first-look?storeRef=voyager_feed_cymbii_learning
 
