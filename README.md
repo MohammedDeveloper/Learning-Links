@@ -1,6 +1,17 @@
 # Learning-Links
 Learning links across frameworks
 
+## "export 'InjectionToken' was not found in '@angular/core'
+https://github.com/brtnshrdr/angular2-hotkeys/issues/38
+
+## Angular 2 Firebase Tutorial
+https://github.com/angular/angularfire2
+https://progblog.io/Angular-2-Firebase-Tutorial-Part-1-Create-a-Firebase-3-CRUD-app-with-Angular-CLI/
+https://medium.com/codingthesmartway-com-blog/angular-2-firebase-introduction-b4f32e844db2
+
+## Angular 2 Firebase Authentication
+https://medium.com/codingthesmartway-com-blog/angular-2-firebase-authentication-7593c565fa53
+
 ## CAN I USE?
 http://caniuse.com/
 
