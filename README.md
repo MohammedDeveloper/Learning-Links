@@ -256,36 +256,44 @@ https://ghinda.net/css-toggle-switch/bootstrap.html
 ## Release all the validations: 
 http://stackoverflow.com/questions/3317870/how-do-i-remove-the-required-rules-from-all-form-inputs-in-jquery-validate   
  
+## Angular2 Course
+https://school.scotch.io/getting-started-with-angular-2?source=home
 
+## The most Advanced css framework
+http://foundation.zurb.com/
 
+## Render react components with editable source and live preview
+http://bluekit.blueberry.io/
 
+## Rich text editor framework for react
+https://draftjs.org/
 
+## Simple TAP-producing test library for node and browsers
+https://ci.testling.com/guide/tape
 
+## JS testing utility for react
+https://medium.com/javascript-world/testing-your-react-components-with-enzyme-5f1c7f185b58#.1c1fh2qfk
 
+## Styled components
+https://styled-components.com/
 
+## Functional and Reactive JS framework
+https://cycle.js.org/
 
+## Small framework for server-rendered universal JavaScript webapps, built on top of React, Webpack and Babel
+https://zeit.co/blog/next
 
+## Flow based programming language
+https://noflojs.org/
 
+## Graph Ql
+http://graphql.org/learn/
 
+## MobX
+https://mobx.js.org/getting-started.html
 
+## Meteor
+https://www.meteor.com/tutorials/blaze/creating-an-app
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Horizon
+https://horizon.io/
